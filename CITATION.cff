@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or adapt this project, cite it as an educational QuestionSense prototype. Add contributor names and repository URL before publication."
+title: "QuestionSense: Question Type Classification and Direct-Answer Prototype"
+type: software
+version: 1.0.0
+date-released: 2026-10-10
+abstract: >-
+  QuestionSense is an educational NLP prototype that uses transparent wording
+  rules to map English questions to six TREC coarse classes and a small separate
+  answer lookup for demonstration questions. An optional TF-IDF plus Logistic
+  Regression baseline is included for reproducible experimentation; it is not
+  integrated into the current website classifier.
